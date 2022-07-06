@@ -35,4 +35,5 @@ public class Grifindor extends Hogwards{
     public void setBravery(int bravery) {
         this.bravery = bravery;
     }
+
 }

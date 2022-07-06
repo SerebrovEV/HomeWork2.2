@@ -13,6 +13,7 @@ public class Hogwards {
         this.distanceTeleport = distanceTeleport;
             }
 
+
     public String getName() {
         return name;
     }
