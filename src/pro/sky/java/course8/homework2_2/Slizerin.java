@@ -10,7 +10,7 @@ public class Slizerin extends Hogwards {
     private int resourcefulness;
     private int lustOfPower;
 
-        public Slizerin(String name, String surname, int powerMagic, int distanceTeleport, int craftiness, int resolute, int ambitiousness, int resourcefulness, int lustOfPower) {
+    public Slizerin(String name, String surname, int powerMagic, int distanceTeleport, int craftiness, int resolute, int ambitiousness, int resourcefulness, int lustOfPower) {
         super(name, surname, powerMagic, distanceTeleport);
         this.craftiness = craftiness;
         this.resolute = resolute;
@@ -58,6 +58,6 @@ public class Slizerin extends Hogwards {
     public void setLustOfPower(int lustOfPower) {
         this.lustOfPower = lustOfPower;
     }
-
-
 }
+
+
