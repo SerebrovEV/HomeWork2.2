@@ -13,6 +13,7 @@ public class KogtervranStudents extends HogwardsStudents {
         this.fullOfCreativity = fullOfCreativity;
     }
 
+
     public int getSmart() {
         return smart;
     }
